@@ -4,7 +4,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using TMPro;
-using UnityEditor.U2D.Path.GUIFramework;
 using UnityEngine;
 
 public class SlotMachine : MonoBehaviour
