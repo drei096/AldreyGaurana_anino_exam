@@ -18,6 +18,8 @@ Data sources:
 
 Possible future improvements:
 > Need to implement randomization of symbols per reel
+
 > Need to fix how the slotResult 2D array recognizes the resulting slot machine spin result after spinning, as offsets to real result is seen
+
 > Add UI Sounds and Sound Effects for spinning, winning, and adding/decreasing bets
 
